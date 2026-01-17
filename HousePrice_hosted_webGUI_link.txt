@@ -1,0 +1,6 @@
+Name: Ekome Jaina
+Matric Number: 22CD032134
+Machine Learning Algorithm Used: Linear Regression
+Model Persistence Method Used: Pickle
+Live URL: https://houseprice-project-ekomejaina-22cd032134.onrender.com/
+GitHub Repository: https://github.com/Jainaek/HousePrice_Project_EkomeJaina_22CD032134.git
